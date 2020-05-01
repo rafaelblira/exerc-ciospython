@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bbef95f3-e9a2-4d0b-9c29-9f0d2fafb83d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ym19oP15Fdll6m1lhy8lgEJ014" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RSettingsProjectConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ex60">
+    <configuration name="ex56" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex56.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex57" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex57.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex58" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex58.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex59" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex59.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex60" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="untitled1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex60.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ex60" />
+        <item itemvalue="Python.ex59" />
+        <item itemvalue="Python.ex58" />
+        <item itemvalue="Python.ex57" />
+        <item itemvalue="Python.ex56" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bbef95f3-e9a2-4d0b-9c29-9f0d2fafb83d" name="Default Changelist" comment="" />
+      <created>1583532806889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583532806889</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2166" y="246" width="225" height="242" key="#Notifications" timestamp="1588340179396">
+      <screen x="1600" y="0" width="1366" height="768" />
+    </state>
+    <state x="2166" y="246" width="225" height="242" key="#Notifications/1600.0.1366.768/0.161.1600.900@1600.0.1366.768" timestamp="1588340179396" />
+    <state x="1878" y="33" width="802" height="669" key="#Vim_Emulation" timestamp="1586101523936">
+      <screen x="1600" y="0" width="1366" height="768" />
+    </state>
+    <state x="1878" y="33" width="802" height="669" key="#Vim_Emulation/1600.0.1366.768/0.161.1600.900@1600.0.1366.768" timestamp="1586101523936" />
+    <state x="483" y="342" width="626" height="530" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586089248816">
+      <screen x="0" y="161" width="1600" height="900" />
+    </state>
+    <state x="483" y="342" width="626" height="530" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1600.0.1366.768/0.161.1600.900@0.161.1600.900" timestamp="1586089248816" />
+    <state x="1980" y="0" width="598" height="743" key="#ex43" timestamp="1586799136893">
+      <screen x="1600" y="0" width="1366" height="768" />
+    </state>
+    <state x="1980" y="0" width="598" height="743" key="#ex43/1600.0.1366.768/0.161.1600.900@1600.0.1366.768" timestamp="1586799136893" />
+    <state x="2066" y="129" width="440" height="476" key="FileChooserDialogImpl" timestamp="1586179752402">
+      <screen x="1600" y="0" width="1366" height="768" />
+    </state>
+    <state x="2066" y="129" width="440" height="476" key="FileChooserDialogImpl/1600.0.1366.768/0.161.1600.900@1600.0.1366.768" timestamp="1586179752402" />
+    <state x="2096" y="293" key="Github.CreateGistDialog" timestamp="1588340087124">
+      <screen x="1600" y="0" width="1366" height="768" />
+    </state>
+    <state x="2096" y="293" key="Github.CreateGistDialog/1600.0.1366.768/0.161.1600.900@1600.0.1366.768" timestamp="1588340087124" />
+    <state width="1345" height="224" key="GridCell.Tab.0.bottom" timestamp="1588276697200">
+      <screen x="1600" y="0" width="1366" height="768" />
+    </state>
+    <state width="1579" height="231" key="GridCell.Tab.0.bottom/1600.0.1366.768/0.0.1600.743@0.0.1600.743" timestamp="1583536990599" />
+    <state width="1579" height="231" key="GridCell.Tab.0.bottom/1600.0.1366.768/0.161.1600.900@0.161.1600.900" timestamp="1586089709060" />
+    <state width="1345" height="224" key="GridCell.Tab.0.bottom/1600.0.1366.768/0.161.1600.900@1600.0.1366.768" timestamp="1588276697200" />
+    <state width="1345" height="224" key="GridCell.Tab.0.center" timestamp="1588276697200">
+      <screen x="1600" y="0" width="1366" height="768" />
+    </state>
+    <state width="1579" height="231" key="GridCell.Tab.0.center/1600.0.1366.768/0.0.1600.743@0.0.1600.743" timestamp="1583536990599" />
+    <state width="1579" height="231" key="GridCell.Tab.0.center/1600.0.1366.768/0.161.1600.900@0.161.1600.900" timestamp="1586089709060" />
+    <state width="1345" height="224" key="GridCell.Tab.0.center/1600.0.1366.768/0.161.1600.900@1600.0.1366.768" timestamp="1588276697200" />
+    <state width="1345" height="224" key="GridCell.Tab.0.left" timestamp="1588276697200">
+      <screen x="1600" y="0" width="1366" height="768" />
+    </state>
+    <state width="1579" height="231" key="GridCell.Tab.0.left/1600.0.1366.768/0.0.1600.743@0.0.1600.743" timestamp="1583536990599" />
+    <state width="1579" height="231" key="GridCell.Tab.0.left/1600.0.1366.768/0.161.1600.900@0.161.1600.900" timestamp="1586089709060" />
+    <state width="1345" height="224" key="GridCell.Tab.0.left/1600.0.1366.768/0.161.1600.900@1600.0.1366.768" timestamp="1588276697200" />
+    <state width="1345" height="224" key="GridCell.Tab.0.right" timestamp="1588276697200">
+      <screen x="1600" y="0" width="1366" height="768" />
+    </state>
+    <state width="1579" height="231" key="GridCell.Tab.0.right/1600.0.1366.768/0.0.1600.743@0.0.1600.743" timestamp="1583536990599" />
+    <state width="1579" height="231" key="GridCell.Tab.0.right/1600.0.1366.768/0.161.1600.900@0.161.1600.900" timestamp="1586089709060" />
+    <state width="1345" height="224" key="GridCell.Tab.0.right/1600.0.1366.768/0.161.1600.900@1600.0.1366.768" timestamp="1588276697200" />
+    <state width="1345" height="224" key="GridCell.Tab.1.bottom" timestamp="1588276697200">
+      <screen x="1600" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="224" key="GridCell.Tab.1.bottom/1600.0.1366.768/0.161.1600.900@1600.0.1366.768" timestamp="1588276697200" />
+    <state width="1345" height="224" key="GridCell.Tab.1.center" timestamp="1588276697200">
+      <screen x="1600" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="224" key="GridCell.Tab.1.center/1600.0.1366.768/0.161.1600.900@1600.0.1366.768" timestamp="1588276697200" />
+    <state width="1345" height="224" key="GridCell.Tab.1.left" timestamp="1588276697200">
+      <screen x="1600" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="224" key="GridCell.Tab.1.left/1600.0.1366.768/0.161.1600.900@1600.0.1366.768" timestamp="1588276697200" />
+    <state width="1345" height="224" key="GridCell.Tab.1.right" timestamp="1588276697200">
+      <screen x="1600" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="224" key="GridCell.Tab.1.right/1600.0.1366.768/0.161.1600.900@1600.0.1366.768" timestamp="1588276697200" />
+    <state x="1787" y="6" key="SettingsEditor" timestamp="1587658773371">
+      <screen x="1600" y="0" width="1366" height="768" />
+    </state>
+    <state x="1787" y="6" key="SettingsEditor/1600.0.1366.768/0.161.1600.900@1600.0.1366.768" timestamp="1587658773371" />
+    <state x="1946" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1586797428314">
+      <screen x="1600" y="0" width="1366" height="768" />
+    </state>
+    <state x="1946" y="89" width="672" height="678" key="search.everywhere.popup/1600.0.1366.768/0.161.1600.900@1600.0.1366.768" timestamp="1586797428314" />
+    <state x="2008" y="286" width="542" height="166" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1586280416803">
+      <screen x="1600" y="0" width="1366" height="768" />
+    </state>
+    <state x="2008" y="286" width="542" height="166" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/1600.0.1366.768/0.161.1600.900@1600.0.1366.768" timestamp="1586280416803" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ex53.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
